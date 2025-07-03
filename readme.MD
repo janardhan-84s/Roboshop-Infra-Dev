@@ -1,6 +1,3 @@
 # Roboshop VM Architecture
 
-![Infra Diagram](images/roboshop-infra-dev.drawio.svg)
-
-
-
+![alt text](roboshop-infra-dev.svg)
