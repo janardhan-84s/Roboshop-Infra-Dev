@@ -1,3 +1,3 @@
 # Roboshop VM Architecture
 
-![alt text](roboshop-infra-dev.svg)
+![alt text](images/roboshop-infra-dev.svg)

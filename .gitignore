@@ -1,4 +1,3 @@
-
 # Local .terraform directories
 **/.terraform/*
 
@@ -41,3 +40,4 @@ terraform.rc
 .terragrunt-cache
 
 testing/
+
