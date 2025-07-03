@@ -1,3 +1,3 @@
 # Roboshop VM Architecture
 
-![alt text](roboshop-infra-dev.)
+![alt text](roboshop-infra-dev.drawio)
