@@ -1,3 +1,4 @@
 # Roboshop VM Architecture
 
-![Infra Diagram](roboshop-infra-dev.drawio.svg)
+![Infra Diagram](roboshop-infra-dev.drawio.png)
+
